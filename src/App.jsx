@@ -11,8 +11,6 @@ function App() {
             <img src='./special.jpg' alt='special.jpg'  width="300px" height="180px"></img>
         </div>
         <div id="contenedor-carta">
-          
-          {/* What makes you S.P.E.C.I.A.L.? */}
           <Carta special="STRENGTH" cara="cara.jpg" detras="./S_1.jpg" />
           <Carta special="PERCEPTION" cara="cara.jpg" detras="./P_1.jpg" />
           <Carta special="ENDURANCE" cara="cara.jpg" detras="./E_1.jpg" />

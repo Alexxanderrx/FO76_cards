@@ -1,10 +1,6 @@
 .carta-box {
-    /* margin: 100px; */
     width: 140px;
     height: 180px;
-    /* position: relative; */
-    /* perspective: 1000px; */
-    /* background-color: aqua; */
     user-select: none;
     display: flex;
     flex-direction: column;
