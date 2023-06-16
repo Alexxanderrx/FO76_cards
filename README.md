@@ -1,6 +1,6 @@
 # Descripción
 
-Fallout 3 es uno de mis de videojuegos favoritos y ya que tengo el  tiempo para hacer una pagina de diseño libre quise hacer un pequeño homenaje a la saga, con las cartas del Fallout76 (aunque ese no es mi favorito de la saga) se presta muy bien para la idea que queria hacer en esta pagina web.
+Fallout 3 es uno de mis de videojuegos favoritos y ya que tengo el  tiempo para hacer una pagina de diseño libre quise hacer un pequeño homenaje a la saga, con las cartas del Fallout76 (aunque ese no es mi favorito de la saga) se presta muy bien para la idea que queria hacer en esta pagina web.(https://fallout.fandom.com/es/wiki/Extras_de_Fallout_76)
 
 ## Descripción del la pagina
 

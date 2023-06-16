@@ -5,8 +5,16 @@
     /* position: relative; */
     /* perspective: 1000px; */
     /* background-color: aqua; */
+    user-select: none;
+    display: flex;
+    flex-direction: column;
   }
-  
+  #specialFO{
+    text-align: center;
+    color:rgb(243, 234, 204);
+    text-shadow: 1px 1px 2px rgb(116, 116, 116);
+    font-weight: 700;
+  }
   .carta-box:hover .carta {
       transform: rotateY(180deg);
   }
