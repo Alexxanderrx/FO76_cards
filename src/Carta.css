@@ -1,0 +1,26 @@
+.carta-box {
+    /* margin: 100px; */
+    width: 140px;
+    height: 180px;
+    /* position: relative; */
+    /* perspective: 1000px; */
+    /* background-color: aqua; */
+  }
+  
+  .carta-box:hover .carta {
+      transform: rotateY(180deg);
+  }
+  
+  .carta {
+    transform-style: preserve-3d;
+    transition: all 0.5s linear;
+  }
+  
+  .cara {
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .cara.detras {
+    transform: rotateY(180deg);
+  }
