@@ -15,8 +15,8 @@ Cartas del S.P.E.C.I.A.L. que son los atributos que definen tu personaje en el j
 
 ### Layout | Diseño
 
-Me falto tiempo para el diseño responsive de **Mobile** ;v
-
+<!-- Al final si me alcanzo el tiempo para el diseño responsive de **Mobile** ;v -->
+Diseño responsive for mobile (max-width: 400px) 
 ### Imagenes
 
 Imagenes sacadas de la wiki oficial de Fallout76.
